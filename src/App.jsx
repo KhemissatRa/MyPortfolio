@@ -6,7 +6,7 @@ import Contact from './Components/EmailMe'
 function App() {
   return (
     <div
-      className="min-h-screen bg-[#080c14]"
+      className="min-h-screen max-w-full bg-[#080c14]"
       style={{
         backgroundImage:
           'linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px)',

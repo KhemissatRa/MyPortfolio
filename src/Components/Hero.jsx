@@ -37,7 +37,7 @@ export default function Hero() {
       </div>
 
       {/* Main content grid */}
-      <div className="grid grid-cols-[1fr_auto] gap-12 items-center relative">
+      <div className="grid  grid-cols-1 md:grid-cols-[1fr_auto] gap-12 items-center relative">
 
         {/* Text column */}
         <div>
