@@ -23,7 +23,7 @@ const experiences = [
 
   {
     role: 'Database Engineering Student',
-    company: 'Associate Degree,
+    company: 'Associate Degree',
     date: '2024 – Present',
     desc:
       'Pursuing advanced database engineering studies while improving backend development and database management skills in parallel.',
