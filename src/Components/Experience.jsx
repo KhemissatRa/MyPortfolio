@@ -1,15 +1,6 @@
 const experiences = [
-  {
-    role: 'Front-End Developer',
-    company: 'Nibra',
-    date: '2024 – 2025',
-    desc:
-      'Developed responsive landing pages and reusable UI components using React.js and Tailwind CSS while focusing on modern UI/UX principles.',
-    tags: ['React', 'Tailwind', 'UI/UX'],
-    active: true,
-    badge: null,
-  },
-  {
+  
+    {
     role: 'Full Stack MERN Developer',
     company: 'Freelance',
     date: '2025 – Present',
@@ -20,8 +11,19 @@ const experiences = [
     badge: 'Current',
   },
   {
+    role: 'Front-End Developer',
+    company: 'Nibra',
+    date: '2024 – 2025',
+    desc:
+      'Developed responsive landing pages and reusable UI components using React.js and Tailwind CSS while focusing on modern UI/UX principles.',
+    tags: ['React', 'Tailwind', 'UI/UX'],
+    active: true,
+    badge: null,
+  },
+
+  {
     role: 'Database Engineering Student',
-    company: 'University',
+    company: 'Associate Degree,
     date: '2024 – Present',
     desc:
       'Pursuing advanced database engineering studies while improving backend development and database management skills in parallel.',
